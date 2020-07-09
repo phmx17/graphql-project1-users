@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "47",
+      "firstName": "Katharina",
+      "age": 44,
+      "companyId": "1"
+    },
+    {
+      "id": "77",
+      "firstName": "Lala",
+      "age": "12",
+      "companyId": "2"
+    },
+    {
+      "firstName": "Bill",
+      "age": 33,
+      "id": "f4MnteY"
+    },
+    {
+      "firstName": "Greg",
+      "age": 20,
+      "id": "mGqmjPJ",
+      "companyId": "1"
+    },
+    {
+      "firstName": "Gregor",
+      "age": 22,
+      "companyId": "3",
+      "id": "xC0GwwH"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "Home Depot",
+      "description": "hardware"
+    }
+  ]
+}
